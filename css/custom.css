@@ -1656,6 +1656,7 @@ a.active {
 	animation-duration: 1.5s;
 	animation-timing-function: ease-out;
 	animation-iteration-count: infinite;
+	z-index: 99 !important;
 }
 
 @keyframes pulse {
@@ -1668,8 +1669,8 @@ a.active {
 }
 
 .btn-whatsapp-pulse-border {
-	bottom: 120px;
-	right: 20px;
+	bottom: 50px;
+	right: 30px;
 	animation-play-state: paused;
 }
 
