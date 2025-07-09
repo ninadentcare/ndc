@@ -1656,7 +1656,7 @@ a.active {
 	animation-duration: 1.5s;
 	animation-timing-function: ease-out;
 	animation-iteration-count: infinite;
-	z-index: 99 !important;
+	z-index: 9999 !important;
 }
 
 @keyframes pulse {
