@@ -1,10 +1,3 @@
-@font-face {
-  font-family: 'FontAwesome';
-  src: url('https://cdn.jsdelivr.net/gh/ninadentcare/ndc/css/webfonts/fontawesome-webfont.woff2') format('woff2'),
-       url('https://cdn.jsdelivr.net/gh/ninadentcare/ndc/css/webfonts/fontawesome-webfont.woff') format('woff');
-  font-display: swap;
-}
-
 body {
   font-family: sans-serif;
 }
@@ -1712,4 +1705,5 @@ a.active {
 		opacity: 0;
 	}
 }
+
 
